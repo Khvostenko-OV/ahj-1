@@ -1,4 +1,4 @@
-![CI](https://github.com/Khvostenko-OV/js_project_1/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/Khvostenko-OV/ahj-1/actions/workflows/web.yml/badge.svg)
 
 # Webpack5
 
